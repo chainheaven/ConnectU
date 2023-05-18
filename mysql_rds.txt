@@ -1,0 +1,7 @@
+Tokyo
+
+host: mydbinstance2.cmcjn8qqcxqk.ap-northeast-1.rds.amazonaws.com
+
+user: admin
+
+password: GBb4ddyE1mfrBFGQA5sc
